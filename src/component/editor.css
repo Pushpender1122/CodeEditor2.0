@@ -1,0 +1,19 @@
+* {
+    color: white;
+}
+
+.codemirror {
+    width: 32%;
+}
+
+
+.heading>h1 {
+    display: flex;
+    align-items: center;
+    background-color: #263238;
+    width: 15%;
+    text-align: center;
+    /* padding-left: 20px; */
+    justify-content: space-around;
+    /* border: 2px solid red; */
+}
