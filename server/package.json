@@ -1,0 +1,14 @@
+{
+  "name": "codeeditor",
+  "version": "1.0.0",
+  "description": "Code Editor for different type of languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pushpender",
+  "license": "ISC",
+  "dependencies": {
+    "compilex": "^0.7.4"
+  }
+}
