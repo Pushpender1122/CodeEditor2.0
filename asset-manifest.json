@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CodeEditor2.0/static/css/main.cd0b74fb.css",
-    "main.js": "/CodeEditor2.0/static/js/main.603b48a9.js",
+    "main.js": "/CodeEditor2.0/static/js/main.f5f4e0f5.js",
     "static/media/code-editor-icon-vector-1979771.jpg": "/CodeEditor2.0/static/media/code-editor-icon-vector-1979771.8b9725c9c6d4ca9f9aed.jpg",
     "index.html": "/CodeEditor2.0/index.html",
     "main.cd0b74fb.css.map": "/CodeEditor2.0/static/css/main.cd0b74fb.css.map",
-    "main.603b48a9.js.map": "/CodeEditor2.0/static/js/main.603b48a9.js.map"
+    "main.f5f4e0f5.js.map": "/CodeEditor2.0/static/js/main.f5f4e0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.cd0b74fb.css",
-    "static/js/main.603b48a9.js"
+    "static/js/main.f5f4e0f5.js"
   ]
 }
